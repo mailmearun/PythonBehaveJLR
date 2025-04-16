@@ -1,0 +1,244 @@
+2025-04-16 09:08:39,364 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:08:52,759 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:08:56,244 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:09:08,123 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:09:15,529 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:09:20,597 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:09:32,286 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:09:39,759 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:09:44,926 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:09:49,471 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:11:19,471 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:11:31,179 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:12:41,218 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:12:54,104 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:24:56,996 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:25:10,064 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:30:27,001 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:30:39,815 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:30:49,845 BasePage.py:88 INFO - Get the Page Title
+2025-04-16 09:32:55,847 home_steps.py:14 INFO - Given user launch the url
+2025-04-16 09:33:07,860 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-16 09:33:27,910 BasePage.py:88 INFO - Get the Page Title
+2025-04-16 10:41:12,217 home_steps.py:44 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:41:12,217 home_steps.py:44 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:46:22,354 api_steps.py:13 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:46:22,354 api_steps.py:13 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:48:41,757 api_steps.py:13 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:48:41,757 api_steps.py:13 INFO - Given Execute Get API using endpoint ""
+2025-04-16 10:53:11,808 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:53:11,808 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:53:12,259 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 10:53:12,259 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 10:56:39,084 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:56:39,084 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:56:39,674 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 10:56:39,674 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 10:57:58,456 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:57:58,456 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:57:59,032 api_steps.py:24 INFO - When verify the response code is 200
+2025-04-16 10:57:59,032 api_steps.py:24 INFO - When verify the response code is 200
+2025-04-16 10:59:58,346 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:59:58,346 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 10:59:59,180 api_steps.py:24 INFO - When verify the response code is 200
+2025-04-16 10:59:59,180 api_steps.py:24 INFO - When verify the response code is 200
+2025-04-16 10:59:59,180 api_steps.py:31 INFO - STEP: Then verify the pet id in response
+2025-04-16 10:59:59,180 api_steps.py:31 INFO - STEP: Then verify the pet id in response
+2025-04-16 11:30:50,919 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:30:50,919 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:30:52,976 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:30:52,976 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:31:00,687 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:31:00,687 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:31:43,709 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:31:43,709 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:31:44,466 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:31:44,466 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:32:49,707 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:32:49,707 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:32:51,722 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:32:51,722 api_steps.py:22 INFO - When verify the response code is 200
+2025-04-16 11:37:37,922 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:37:37,922 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:37:38,694 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 11:37:38,694 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 11:38:16,934 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:38:16,934 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:38:17,816 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 11:38:17,816 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 11:38:17,816 api_steps.py:27 INFO - STEP: Then verify the pet id in response
+2025-04-16 11:38:17,816 api_steps.py:27 INFO - STEP: Then verify the pet id in response
+2025-04-16 11:41:47,509 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:41:47,509 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 11:41:48,336 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 11:41:48,336 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:28:17,083 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:28:17,083 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:28:18,580 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:28:18,580 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:29:49,179 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:29:49,179 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:29:50,545 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:29:50,545 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:29:50,545 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:29:50,545 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:32:03,522 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:32:03,522 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:32:04,770 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:32:04,770 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:32:50,841 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:32:50,841 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:32:51,941 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:32:51,941 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:32:51,941 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:32:51,941 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:35:17,688 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:35:17,688 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:35:19,149 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:35:19,149 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:35:19,149 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:35:19,149 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:37:46,309 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:37:46,309 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:37:47,931 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:37:47,931 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:37:47,931 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:37:47,931 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:38:29,120 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:38:29,120 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:38:30,304 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:38:30,304 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:38:30,304 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:38:30,304 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:38:58,958 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:38:58,958 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:39:00,163 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:39:00,163 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:39:00,163 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:39:00,163 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:14,149 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:14,149 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:15,394 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:15,394 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:15,394 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:15,394 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:32,243 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:32,243 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:33,518 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:33,518 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:33,518 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:33,518 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:55,363 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:55,363 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:40:56,459 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:56,459 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:40:56,459 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:40:56,459 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:41:42,770 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:41:42,770 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:41:43,821 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:41:43,821 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:41:43,821 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:41:43,821 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:43:34,187 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:43:34,187 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:43:35,593 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:43:35,593 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:43:35,593 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:43:35,593 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:45:48,868 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:45:48,868 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:45:50,145 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:45:50,145 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:45:50,145 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:45:50,145 api_steps.py:29 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:52:40,392 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:52:40,392 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:52:41,590 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:52:41,590 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:53:18,146 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:53:18,146 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:53:19,383 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:53:19,383 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:53:19,383 api_steps.py:30 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:53:19,383 api_steps.py:30 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:54:17,244 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:54:17,244 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:54:18,661 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:54:18,661 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:55:22,869 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:55:22,869 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:55:24,202 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:55:24,202 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:55:24,202 api_steps.py:30 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:55:24,202 api_steps.py:30 INFO - STEP: Then verify the pet id in response
+2025-04-16 13:56:12,007 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:56:12,007 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 13:56:13,052 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 13:56:13,052 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:01:07,093 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:01:07,093 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:01:08,477 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:01:08,477 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:01:08,477 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:01:08,477 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:02:32,043 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:02:32,043 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:02:33,362 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:02:33,362 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:02:33,362 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:02:33,362 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:02:56,337 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:02:56,337 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:02:57,433 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:02:57,433 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:02:57,437 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:02:57,437 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:03:15,979 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:03:15,979 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:03:17,307 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:03:17,307 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:03:17,307 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:03:17,307 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:03:42,082 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:03:42,082 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:03:43,159 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:03:43,159 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:03:43,169 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:03:43,169 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:05:40,835 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:05:40,835 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:05:42,205 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:05:42,205 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:05:42,205 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:05:42,205 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:06:22,283 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:06:22,283 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:06:23,462 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:06:23,462 api_steps.py:21 INFO - When verify the response code is 200
+2025-04-16 14:06:23,462 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:06:23,462 api_steps.py:36 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:07:54,191 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:07:54,191 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:07:55,323 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:07:55,323 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:07:55,323 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:07:55,323 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:09:06,088 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:09:06,088 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:09:07,308 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:09:07,308 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:09:07,310 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:09:07,310 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:10:06,254 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:10:06,254 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:10:07,343 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:10:07,343 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:10:07,343 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:10:07,343 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:10:47,260 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:10:47,260 api_steps.py:14 INFO - Given Execute Get API using endpoint
+2025-04-16 14:10:48,298 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:10:48,298 api_steps.py:23 INFO - When verify the response code is 200
+2025-04-16 14:10:48,298 api_steps.py:38 INFO - STEP: Then verify the pet id in response
+2025-04-16 14:10:48,298 api_steps.py:38 INFO - STEP: Then verify the pet id in response

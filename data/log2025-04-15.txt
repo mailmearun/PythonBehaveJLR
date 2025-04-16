@@ -1,0 +1,38 @@
+2025-04-15 21:17:03,532 home_steps.py:15 INFO - Given user launch the url
+2025-04-15 21:17:25,597 home_steps.py:23 INFO - When verify the home page title is ""
+2025-04-15 21:17:25,599 BasePage.py:88 INFO - Get the Page Title
+2025-04-15 21:18:50,835 home_steps.py:15 INFO - Given user launch the url
+2025-04-15 21:19:11,667 home_steps.py:23 INFO - When verify the home page title is ""
+2025-04-15 21:19:11,680 BasePage.py:88 INFO - Get the Page Title
+2025-04-15 21:26:32,622 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 21:27:30,519 home_steps.py:21 INFO - When verify the home page title is "JLR Corporate Website"
+2025-04-15 21:27:30,532 BasePage.py:88 INFO - Get the Page Title
+2025-04-15 21:28:16,575 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 21:30:13,961 home_steps.py:21 INFO - When verify the home page title is 'JLR Corporate Website'
+2025-04-15 21:30:13,974 BasePage.py:88 INFO - Get the Page Title
+2025-04-15 21:32:17,672 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 21:32:37,116 home_steps.py:21 INFO - When verify the home page title is JLR Corporate Website
+2025-04-15 21:32:37,129 BasePage.py:88 INFO - Get the Page Title
+2025-04-15 22:03:17,243 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:04:18,156 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:04:18,182 home_steps.py:34 INFO - Then user is able to verify the below links under Company Tab
+2025-04-15 22:08:18,511 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:08:35,361 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:08:35,385 home_steps.py:34 INFO - Then user is able to verify the below links under Company Tab
+2025-04-15 22:09:31,688 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:12:09,555 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:12:09,577 home_steps.py:34 INFO - Then user is able to verify the below links under Company Tab
+2025-04-15 22:20:31,959 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:21:18,215 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:21:22,129 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:24:24,214 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:24:32,064 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:24:51,905 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:24:59,896 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:28:13,432 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:28:21,343 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:30:32,516 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:30:40,527 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 22:32:03,893 home_steps.py:28 INFO - When user click on Company Tab
+2025-04-15 22:32:11,928 home_steps.py:14 INFO - Given user launch the url
+2025-04-15 23:05:01,912 home_steps.py:28 INFO - When user click on Company Tab
